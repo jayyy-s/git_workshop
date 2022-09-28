@@ -1,6 +1,10 @@
 def foo(x):
-    return 0
+    return x
 
 
 def bar(x):
-    return 1
+    return 2*x
+
+
+def add(x, y):
+    return x + y
