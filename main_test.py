@@ -11,3 +11,7 @@ def test_bar():
 
 def test_add():
     assert add(1, 3) == 4
+
+
+def test_subtract():
+    assert subtract(1, 3) == -2
