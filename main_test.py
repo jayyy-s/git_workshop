@@ -1,10 +1,10 @@
-from main import foo
-from main import bar
+from main import returnX
+from main import timesTwo
 
 
-def test_foo():
-    assert foo(3) == 3
+def test_returnX():
+    assert returnX(3) == 3
 
 
-def test_bar():
-    assert bar(3) == 6
+def test_timesTwo():
+    assert timesTwo(3) == 6

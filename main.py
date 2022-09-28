@@ -1,6 +1,6 @@
-def foo(x):
+def returnX(x):
     return 0
 
 
-def bar(x):
+def timesTwo(x):
     return 1
