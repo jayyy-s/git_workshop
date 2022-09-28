@@ -3,4 +3,4 @@ def returnX(x):
 
 
 def timesTwo(x):
-    return 1
+    return 2*x 
