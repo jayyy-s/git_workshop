@@ -1,5 +1,4 @@
-from main import foo
-from main import bar
+from main import *
 
 
 def test_foo():
@@ -8,3 +7,7 @@ def test_foo():
 
 def test_bar():
     assert bar(3) == 6
+
+
+def test_add():
+    assert add(1, 3) == 4
