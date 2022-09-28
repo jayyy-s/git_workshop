@@ -1,6 +1,6 @@
 def returnX(x):
-    return 0
+    return x
 
 
 def timesTwo(x):
-    return 1
+    return 2*x 
